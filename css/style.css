@@ -3,7 +3,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('https://raw.githubusercontent.com/Kevintar/project-2/master/images/background.jpg');
+    background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/background.jpg');
     background-size: cover;
     background-attachment: fixed;
     transition: 2s;
@@ -19,7 +19,7 @@ body {
 .top-section {
     padding-bottom: 50px;
     color: #b7b929;
-    background-image: url('https://raw.githubusercontent.com/Kevintar/project-2/master/images/Rose.jpg');
+    background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/Rose.jpg');
     background-size: cover;
     transition: 1.5s;
     max-height: 660px;
@@ -76,7 +76,7 @@ body {
     padding: 40px;
     display: flex;
     justify-content: space-evenly;
-    background-image: url('https://raw.githubusercontent.com/Kevintar/project-2/master/images/Rose.jpg');
+    background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/Rose.jpg');
     background-size: contain;
 }
 
@@ -148,7 +148,7 @@ body {
 }
 
 #weddingForm {
-    background-image: url('https://raw.githubusercontent.com/Kevintar/project-2/master/images/Rose.jpg');
+    background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/Rose.jpg');
     background-size: cover;
     transition: 1.5s;
     box-shadow: -3px 1px 14px 0px #00000070;
