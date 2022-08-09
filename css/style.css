@@ -6,7 +6,7 @@ body {
     background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/background.jpg');
     background-size: cover;
     background-attachment: fixed;
-    transition: 2s;
+    transition: 1s;
 }
 
 .main-content {
@@ -21,7 +21,7 @@ body {
     color: #b7b929;
     background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/Rose.jpg');
     background-size: cover;
-    transition: 1.5s;
+    transition: 2s;
     max-height: 660px;
 }
 
@@ -150,7 +150,7 @@ body {
 #weddingForm {
     background-image: url('https://raw.githubusercontent.com/Kevintar/Project2-Wedding-Card/main/images/Rose.jpg');
     background-size: cover;
-    transition: 1.5s;
+    transition: 2s;
     box-shadow: -3px 1px 14px 0px #00000070;
     font-family: Roboto;
 }
